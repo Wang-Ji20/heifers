@@ -1,15 +1,7 @@
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <template>
-    <p>
-        world
-    </p>
-    <RouterLink to="/interval">[interval]</RouterLink>
+  <p>Heifers</p>
 </template>
 
-
-<style>
-
-</style>
+<style scoped></style>
